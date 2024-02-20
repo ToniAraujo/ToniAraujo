@@ -32,9 +32,9 @@ Aqui está um pouco sobre mim e o que você pode encontrar neste perfil:
 
 ## Como Me Encontrar
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/toni-cleber-nunes-araujo-137848235/))
-- 📘 [Facebook]([https://www.facebook.com/seufacebook](https://www.facebook.com/toni.cleber/)
-- 📷 [Instagram]([https://www.instagram.com/seuinstagram](https://www.instagram.com/tonicleber_/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/toni-cleber-nunes-araujo-137848235/)
+- 📘 [Facebook](https://www.facebook.com/toni.cleber/)
+- 📷 [Instagram](https://www.instagram.com/tonicleber_/)
 
 
 ## Vamos Conectar!
