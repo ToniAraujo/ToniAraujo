@@ -13,7 +13,7 @@ Aqui está um pouco sobre mim e o que você pode encontrar neste perfil:
 - 📝 Criação de Casos de Testes com BDD/Gherkin.
 - 📊 Mapeamento de Testes e Análise de Requisitos.
 - 📋 Criação de Plano de Testes.
-- 🔄 Vivência em testes ágeis utilizando a metodologia Scrum.
+- 🔄 metodologia ágeis utilizando Scrum/ Kanban.
 
 ## Principais Áreas de Interesse
 
