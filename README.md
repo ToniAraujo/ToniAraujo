@@ -6,11 +6,10 @@ Aqui está um pouco sobre mim e o que você pode encontrar neste perfil:
 ## Sobre Mim
 
 - 👨‍🎓 Pós-Graduação em Engenharia de Software com Ênfase em Qualidade e Testes de Software, janeiro/2024.
-- 👨‍💼 Experiência Profissional na Ramblas Assessoria de Informática LTDA, desde setembro/2023.
 - 💼 Profissional de QA (Analista de Testes) com experiência em diversos aspectos do ciclo de vida de testes de software.
-- 💻 Habilidades em automação de testes utilizando Robot Framework.
+- 💻 Habilidades em automação de testes utilizando Robot Framework (WEB) e Rest Assured (API's).
 - 🧪 Experiência em testes funcionais, ponta a ponta, exploratórios, de regressão, entre outros.
-- 📝 Criação de Casos de Testes com BDD/Gherkin.
+- 📝 Criação de Casos de Testes com Gherkin.
 - 📊 Mapeamento de Testes e Análise de Requisitos.
 - 📋 Criação de Plano de Testes.
 - 🔄 metodologia ágeis utilizando Scrum/ Kanban.
@@ -32,7 +31,7 @@ Aqui está um pouco sobre mim e o que você pode encontrar neste perfil:
 
 ## Como Me Encontrar
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/toni-cleber-nunes-araujo-137848235/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/toni-cleber-nunes-araujo0703/)
 - 📘 [Facebook](https://www.facebook.com/toni.cleber/)
 - 📷 [Instagram](https://www.instagram.com/tonicleber_/)
 
